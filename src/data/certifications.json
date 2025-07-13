@@ -1,0 +1,12 @@
+[
+  {
+    "title": "AWS Certified Cloud Practitioner",
+    "imageSrc": "certification/cloud-Practitioner_badge.png",
+    "link": "https://www.credly.com/badges/55088b22-c849-4b2f-b925-0e82154085c8/public_url"
+  },
+  {
+    "title": "Introduction to Generative AI",
+    "imageSrc": "certification/gcp_logo.png",
+    "link": "https://www.cloudskillsboost.google/public_profiles/64f4f533-0665-4173-b68a-8bf714762574/badges/8833781"
+  }
+]

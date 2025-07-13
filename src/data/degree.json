@@ -1,0 +1,26 @@
+[
+  {
+    "institution": "King's College London",
+    "course_name": "MSc Advanced Software Engineering",
+    "startDate": "Sept, 2022",
+    "endDate": "Sept, 2023",
+    "relevant_modules": [
+      "Human-Computer Interaction",
+      "Model Driven development",
+      "Software Measurement and Testing"
+    ],
+    "imageSrc": "degree/kcl_logo.png"
+  },
+  {
+    "institution": "Mumbai University",
+    "course_name": "BE in Information Technology",
+    "startDate": "Jun, 2014",
+    "endDate": "Jun, 2018",
+    "relevant_modules": [
+      "Data Structure and Algorithm",
+      "Database Management System",
+      "Computer Networks"
+    ],
+    "imageSrc": "degree/mu_logo.jpg"
+  }
+]
